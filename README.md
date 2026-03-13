@@ -1,2 +1,2 @@
 # gRPC
-My gRPC project
+My gRPC project (Remote Procedure Call)
